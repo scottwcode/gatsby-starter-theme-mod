@@ -4,10 +4,10 @@
   </a>
 </p>
 <h1 align="center">
-  Starter for the official Gatsby blog and notes themes.
+  Starter for the Gatsby blog and notes themes.
 </h1>
 
-Created from the Gatsby blog theme, and notes theme, together. This starter creates a new Gatsby site that is preconfigured to work with the [blog theme](https://www.npmjs.com/package/gatsby-theme-blog) and the [notes theme](https://www.npmjs.com/package/gatsby-theme-notes), in harmony.
+Created from the Gatsby blog theme and notes theme, together. This starter creates a new Gatsby site that is preconfigured to work with the [blog theme](https://www.npmjs.com/package/gatsby-theme-blog) and the [notes theme](https://www.npmjs.com/package/gatsby-theme-notes), in harmony.
 
 ## 🚀 Quick start
 
@@ -17,6 +17,7 @@ Created from the Gatsby blog theme, and notes theme, together. This starter crea
 
     ```shell
     # create a new Gatsby site using the vanilla theme starter
+    # from the gatsbyjs github latest version
     gatsby new my-themed-site https://github.com/gatsbyjs/gatsby-starter-theme
 
     # or to use the modified version that I created
