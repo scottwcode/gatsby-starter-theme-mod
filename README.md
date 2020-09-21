@@ -7,7 +7,7 @@
   Starter for the official Gatsby blog and notes themes.
 </h1>
 
-Quickly get started using the Gatsby blog theme, and notes theme, together! This starter creates a new Gatsby site that is preconfigured to work with the [blog theme](https://www.npmjs.com/package/gatsby-theme-blog) and the [notes theme](https://www.npmjs.com/package/gatsby-theme-notes), in harmony.
+Created from the Gatsby blog theme, and notes theme, together. This starter creates a new Gatsby site that is preconfigured to work with the [blog theme](https://www.npmjs.com/package/gatsby-theme-blog) and the [notes theme](https://www.npmjs.com/package/gatsby-theme-notes), in harmony.
 
 ## 🚀 Quick start
 
@@ -16,8 +16,12 @@ Quickly get started using the Gatsby blog theme, and notes theme, together! This
     Use the Gatsby CLI to create a new site, specifying this theme starter.
 
     ```shell
-    # create a new Gatsby site using this theme starter
+    # create a new Gatsby site using the vanilla theme starter
     gatsby new my-themed-site https://github.com/gatsbyjs/gatsby-starter-theme
+
+    # or to use the modified version that I created
+    gatsby new my-themed-site https://github.com/scottwcode/gatsby-starter-theme
+
     ```
 
 2.  **Start developing.**
